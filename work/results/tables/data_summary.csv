@@ -1,0 +1,17 @@
+eco,family,split,native,n,groups,words_median,words_p90,boilerplate
+MCP-curated,benign,,True,326,44,9.5,83.5,0.0
+MCP-curated,hand,test,False,157,32,33.0,113.40000000000003,0.06369426751592357
+MCP-curated,mcptox,test,True,624,23,37.0,58.0,0.7483974358974359
+MCP-curated,mcptox,train,True,724,22,36.0,60.0,0.7085635359116023
+MCP-wild,benign,,True,610,43,26.0,188.0,0.0
+MCP-wild,hand,test,True,204,37,41.0,80.70000000000002,0.08823529411764706
+MCP-wild,mcptox,test,False,300,37,68.5,213.60000000000014,0.7366666666666667
+MCP-wild,mcptox,train,False,300,39,67.5,204.20000000000005,0.6966666666666667
+Plugin,benign,,True,389,388,33.0,230.79999999999995,0.0
+Plugin,hand,test,False,157,136,57.0,200.4,0.06369426751592357
+Plugin,mcptox,test,False,300,213,77.5,304.1,0.7566666666666667
+Plugin,mcptox,train,False,300,217,73.0,292.20000000000005,0.6766666666666666
+ToolEmu,benign,,True,329,38,9.0,19.0,0.0
+ToolEmu,hand,test,False,157,36,29.0,44.0,0.06369426751592357
+ToolEmu,mcptox,test,False,300,38,47.0,68.10000000000002,0.7366666666666667
+ToolEmu,mcptox,train,False,300,37,46.0,71.0,0.7233333333333334

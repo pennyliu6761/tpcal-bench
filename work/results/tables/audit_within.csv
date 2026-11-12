@@ -1,0 +1,10 @@
+cond,cue,auroc
+C0,length,0.7405586098924105
+C0,boilerplate flag,0.8635014836795252
+C0,cue lexicon (rule),0.9202863592506964
+C1,length,0.7216690029309497
+C1,boilerplate flag,0.5
+C1,cue lexicon (rule),0.826509621161093
+C2,length,0.4969265042427469
+C2,boilerplate flag,0.5000000000000001
+C2,cue lexicon (rule),0.7989289782415954
